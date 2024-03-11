@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Robustness of explanations
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Lenka
+    family-names: Tětková
+    email: lenhy@dtu.dk
+    affiliation: Technical University of Denmark
+    orcid: 'https://orcid.org/0000-0002-0009-6896'
+identifiers:
+  - type: doi
+    value: 10.1109/CVPRW59228.2023.00381
+license: Apache-2.0
+commit: 433fca431c13a1cc1e1c059fbac05685637ee391
+version: '1.0'
+date-released: '2023-04-13'
