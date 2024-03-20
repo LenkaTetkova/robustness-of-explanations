@@ -16,6 +16,8 @@ authors:
 identifiers:
   - type: doi
     value: 10.1109/CVPRW59228.2023.00381
+repository-code: >-
+  https://github.com/LenkaTetkova/robustness-of-explanations/tree/main
 license: Apache-2.0
 commit: 433fca431c13a1cc1e1c059fbac05685637ee391
 version: '1.0'
